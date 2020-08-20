@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tic-tac-toe/static/css/main.9259d4bf.chunk.css",
-    "main.js": "/tic-tac-toe/static/js/main.848e9a60.chunk.js",
-    "main.js.map": "/tic-tac-toe/static/js/main.848e9a60.chunk.js.map",
-    "runtime-main.js": "/tic-tac-toe/static/js/runtime-main.fa7aabe4.js",
-    "runtime-main.js.map": "/tic-tac-toe/static/js/runtime-main.fa7aabe4.js.map",
-    "static/js/2.9b6bb06f.chunk.js": "/tic-tac-toe/static/js/2.9b6bb06f.chunk.js",
-    "static/js/2.9b6bb06f.chunk.js.map": "/tic-tac-toe/static/js/2.9b6bb06f.chunk.js.map",
-    "index.html": "/tic-tac-toe/index.html",
-    "precache-manifest.e2fcdc5871923751ebeee8f0d286b686.js": "/tic-tac-toe/precache-manifest.e2fcdc5871923751ebeee8f0d286b686.js",
-    "service-worker.js": "/tic-tac-toe/service-worker.js",
-    "static/css/main.9259d4bf.chunk.css.map": "/tic-tac-toe/static/css/main.9259d4bf.chunk.css.map",
-    "static/js/2.9b6bb06f.chunk.js.LICENSE.txt": "/tic-tac-toe/static/js/2.9b6bb06f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/tic-tac-toe/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Tic-Tac-Toe/static/css/main.9259d4bf.chunk.css",
+    "main.js": "/Tic-Tac-Toe/static/js/main.0e2a8bb2.chunk.js",
+    "main.js.map": "/Tic-Tac-Toe/static/js/main.0e2a8bb2.chunk.js.map",
+    "runtime-main.js": "/Tic-Tac-Toe/static/js/runtime-main.e29fce77.js",
+    "runtime-main.js.map": "/Tic-Tac-Toe/static/js/runtime-main.e29fce77.js.map",
+    "static/js/2.9b6bb06f.chunk.js": "/Tic-Tac-Toe/static/js/2.9b6bb06f.chunk.js",
+    "static/js/2.9b6bb06f.chunk.js.map": "/Tic-Tac-Toe/static/js/2.9b6bb06f.chunk.js.map",
+    "index.html": "/Tic-Tac-Toe/index.html",
+    "precache-manifest.b5f95ec0edb01b80a27e81d45866c6eb.js": "/Tic-Tac-Toe/precache-manifest.b5f95ec0edb01b80a27e81d45866c6eb.js",
+    "service-worker.js": "/Tic-Tac-Toe/service-worker.js",
+    "static/css/main.9259d4bf.chunk.css.map": "/Tic-Tac-Toe/static/css/main.9259d4bf.chunk.css.map",
+    "static/js/2.9b6bb06f.chunk.js.LICENSE.txt": "/Tic-Tac-Toe/static/js/2.9b6bb06f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Tic-Tac-Toe/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa7aabe4.js",
+    "static/js/runtime-main.e29fce77.js",
     "static/js/2.9b6bb06f.chunk.js",
     "static/css/main.9259d4bf.chunk.css",
-    "static/js/main.848e9a60.chunk.js"
+    "static/js/main.0e2a8bb2.chunk.js"
   ]
 }
